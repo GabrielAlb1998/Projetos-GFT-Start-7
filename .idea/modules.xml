@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projetos-GFT-Start-7.iml" filepath="$PROJECT_DIR$/.idea/Projetos-GFT-Start-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura-if-else/estrutura-if-else.iml" filepath="$PROJECT_DIR$/estrutura-if-else/estrutura-if-else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/introducao/introducao.iml" filepath="$PROJECT_DIR$/introducao/introducao.iml" />
+    </modules>
+  </component>
+</project>
