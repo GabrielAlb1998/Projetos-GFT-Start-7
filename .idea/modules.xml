@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos de linguagem/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Fundamentos de linguagem/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos de linguagem/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Fundamentos de linguagem/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estruturas de controle/Exercicios2/Exercicios2.iml" filepath="$PROJECT_DIR$/Estruturas de controle/Exercicios2/Exercicios2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Projetos-GFT-Start-7.iml" filepath="$PROJECT_DIR$/.idea/Projetos-GFT-Start-7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/estrutura-if-else/estrutura-if-else.iml" filepath="$PROJECT_DIR$/estrutura-if-else/estrutura-if-else.iml" />
-      <module fileurl="file://$PROJECT_DIR$/introducao/introducao.iml" filepath="$PROJECT_DIR$/introducao/introducao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estruturas de Controle/estrutura while/estrutura while.iml" filepath="$PROJECT_DIR$/Estruturas de Controle/estrutura while/estrutura while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estruturas de Controle/estrutura-for/estrutura-for.iml" filepath="$PROJECT_DIR$/Estruturas de Controle/estrutura-for/estrutura-for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estruturas de Controle/estrutura-if-else/estrutura-if-else.iml" filepath="$PROJECT_DIR$/Estruturas de Controle/estrutura-if-else/estrutura-if-else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos de linguagem/introducao/introducao.iml" filepath="$PROJECT_DIR$/Fundamentos de linguagem/introducao/introducao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estruturas de Controle/switch case/switch case.iml" filepath="$PROJECT_DIR$/Estruturas de Controle/switch case/switch case.iml" />
     </modules>
   </component>
 </project>
